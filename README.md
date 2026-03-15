@@ -58,7 +58,7 @@ Calculation:
 Tabulation:
 
 ![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-1/blob/main/1.3.jpeg?raw=true)
-![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-1/blob/main/1.3.jpeg?raw=true)
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-1/blob/main/1.4.jpeg?raw=true)
 
 
 RESULT:
